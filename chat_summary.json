@@ -24,5 +24,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hello World' button to be positioned on the app interface?\", \"option1\": \"In the app's header\", \"option2\": \"At the bottom of the screen\"}, {\"question 2\": \"What action do you want to trigger when the 'Hello World' button is pressed?\", \"option1\": \"Display a simple 'Hello World' message on screen\", \"option2\": \"Redirect users to another page with more information\"}], \"input_token_count\": 263, \"output_token_count\": 108, \"time_taken\": \"0:00:03.558110\"}",
         "timestamp": "08082024051512",
         "message_id": "guest08082024051507"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add an interactive guide for first-time users explaining blockchain basics\", \"checked\": true}, {\"feature\": \"Implement a real-time blockchain news feed on the homepage\", \"checked\": false}, {\"feature\": \"Incorporate a search functionality to filter blockchain topics\", \"checked\": true}, {\"feature\": \"Enable push notifications for breaking news and updates in the blockchain world\", \"checked\": false}, {\"feature\": \"Integrate social sharing options to allow users to share blockchain information with others\", \"checked\": true}, {\"feature\": \"Add a 'Favorites' feature where users can save articles or topics for later viewing\", \"checked\": false}], \"input_token_count\": 217, \"output_token_count\": 134, \"time_taken\": \"0:00:04.477389\"}",
+        "timestamp": "08082024051512",
+        "message_id": "guest08082024051507"
     }
 ]
